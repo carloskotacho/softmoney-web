@@ -1,10 +1,10 @@
 <p align="center">
   <img width="200" alt="logo-softmoney" src="https://user-images.githubusercontent.com/22691244/91348175-cc410280-e7b9-11ea-93ff-f914b6cc5680.png">
+  <br />
+  <sub>Em construção<sub>
 </p>
 
 <p align="center">
-  <sub>Em construção<sub><br />
-    
   <a href="https://github.com/carloskotacho/softmoney-web/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/carloskotacho/softmoney-web?color=DE5974&label=licen%C3%A7a&style=flat-square"/>
   </a>
