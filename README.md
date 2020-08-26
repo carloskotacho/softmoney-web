@@ -30,7 +30,7 @@
 O layout da aplicação está disponível no Figma:
 
 <a href="#">
-  <img alt="Made by carloshk" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by carloshk" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361?style=flat-square&logo=figma">
 </a>
 
 ### Web
