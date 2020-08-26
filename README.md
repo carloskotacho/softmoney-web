@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="250" alt="logo-softmoney" src="https://user-images.githubusercontent.com/22691244/91348175-cc410280-e7b9-11ea-93ff-f914b6cc5680.png">
+  <img width="200" alt="logo-softmoney" src="https://user-images.githubusercontent.com/22691244/91348175-cc410280-e7b9-11ea-93ff-f914b6cc5680.png">
 </p>
 
 <p align="center">
