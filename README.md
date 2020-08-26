@@ -1,10 +1,21 @@
-
 <p align="center">
   <img width="200" alt="logo-softmoney" src="https://user-images.githubusercontent.com/22691244/91348175-cc410280-e7b9-11ea-93ff-f914b6cc5680.png">
 </p>
 
 <p align="center">
-  <sub>Em construção<sub>
+  <sub>Em construção<sub><br />
+    
+  <a href="https://github.com/carloskotacho/softmoney-web/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/carloskotacho/softmoney-web?color=DE5974&label=licen%C3%A7a&style=flat-square"/>
+  </a>
+
+  <a href="https://david-dm.org/carloskotacho/softmoney-web">
+      <img src="https://img.shields.io/static/v1?label=depend%C3%AAncias&message=PROD&color=DE5974&style=flat-square"/>
+  </a>
+
+  <a href="https://david-dm.org/carloskotacho/softmoney-web?type=dev">
+      <img src="https://img.shields.io/static/v1?label=depend%C3%AAncias&message=DEV&color=DE5974&style=flat-square"/>
+  </a>
 </p>
 
 <p align="center">
