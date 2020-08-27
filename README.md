@@ -39,7 +39,7 @@ O layout da aplicação está disponível no Figma:
   <img alt="Softmoney" title="Login" src="https://user-images.githubusercontent.com/22691244/91343226-94828c80-e7b2-11ea-90b5-d516ac930de3.png" width="800px">
 </p>
 
-## 🚀 Como executar o projeto
+## ➤ Como executar o projeto
 
 ### Pré-requisitos
 
