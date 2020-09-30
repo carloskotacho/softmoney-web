@@ -67,7 +67,7 @@ $ yarn start
 
 ## ➤ Autor
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="">
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/22691244/91348568-58532a00-e7ba-11ea-80c0-a71cd2d86481.png" width="100px;" alt=""/>
  <br />
  <sub><b>Carlos Henrique</b></sub></a> <a href="#" title="Carlos">🚀</a>
